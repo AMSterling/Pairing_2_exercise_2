@@ -1,4 +1,4 @@
-best_freind = "Pete"
+best_freind = "John"
 buddy = "Greg"
 if best_freind == "Pete"
   puts "Hello Pete!"
